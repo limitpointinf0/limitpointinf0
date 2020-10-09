@@ -1,4 +1,4 @@
-## Hi 👋 I am Chris! 
+## Hi 👋 I'm Chris! 
 
 I am an engineer who is passionate about stuff like container orchestration, networking and security, cloud infrastructure/architecture, and machine learning.
 
