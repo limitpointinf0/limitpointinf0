@@ -15,6 +15,4 @@ I'm an engineer who is passionate about stuff like container orchestration, netw
   - Ubuntu, CentOS, Kali, Windows Server and Desktop
   - Scikit, Tensorflow, MLflow
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limitpointinf0&layout=compact)](https://github.com/limitpointinf0/github-readme-stats)
-
 ![Nmap](../master/images/nmap.png)
