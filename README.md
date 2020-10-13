@@ -17,4 +17,4 @@ I'm an engineer who is passionate about stuff like container orchestration, netw
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limitpointinf0&layout=compact)](https://github.com/limitpointinf0/github-readme-stats)
 
-![Nmap](../main/images/nmap.png)
+![Nmap](../master/images/nmap.png)
