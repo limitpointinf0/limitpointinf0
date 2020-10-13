@@ -10,7 +10,7 @@ I'm an engineer who is passionate about stuff like container orchestration, netw
   - Wireshark, Nmap
   - Django, Flask, Odoo, ExpressJS, Airflow, Spark, Kafka
   - Postgres, MySQL, SQLServer, MongoDB, Redis
-  - Kubernetes, Helm, Docker, Ansible, Terraform
+  - Kubernetes, Helm, Docker, Ansible, Terraform, Jenkins
   - GCP, Azure, AWS
   - Ubuntu, CentOS, Kali, Windows Server and Desktop
   - Scikit, Tensorflow, MLflow
