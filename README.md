@@ -6,7 +6,7 @@ I'm an engineer who is passionate about stuff like container orchestration, netw
 - 😊 Willing to contribute in open-source development projects.
 
 ### Languages, Tools, Frameworks and Platforms:
-  - Python, Javascript, Scala, Java, Bash, C++
+  - Python, Javascript, Scala, Java, Bash, C++, PHP
   - Wireshark, Nmap
   - Django, Flask, Odoo, ExpressJS, BackboneJS, ReactJS, Airflow, Spark, Kafka
   - Postgres, MySQL, SQLServer, MongoDB, Redis
