@@ -1,8 +1,18 @@
 ## Hi 👋 I'm Chris! 
 
-I am an engineer who is passionate about stuff like container orchestration, networking and security, cloud architecture, and machine learning.
+I'm an engineer who is passionate about stuff like container orchestration, networking and security, cloud architecture, and machine learning.
 
 - 💻 Currently working, learning and growing my skillset in network analysis, data-ops, system architecture, data structures and algorithms.
 - 😊 Willing to contribute in open-source development projects.
+
+### Languages, Tools, Frameworks and Platforms:
+  - Python, Javascript, Scala, Java, Bash
+  - Wireshark, Nmap
+  - Django, Flask, Odoo, ExpressJS, Airflow, Spark
+  - Postgres, MySQL, SQLServer, MongoDB, Redis
+  - Kubernetes, Helm, Docker, Ansible, Terraform
+  - GCP, Azure, AWS
+  - Ubuntu, CentOS, Kali, Windows Server and Desktop
+  - Scikit, Tensorflow, MLflow
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limitpointinf0&layout=compact)](https://github.com/limitpointinf0/github-readme-stats)
