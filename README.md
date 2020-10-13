@@ -8,7 +8,7 @@ I'm an engineer who is passionate about stuff like container orchestration, netw
 ### Languages, Tools, Frameworks and Platforms:
   - Python, Javascript, Scala, Java, Bash
   - Wireshark, Nmap
-  - Django, Flask, Odoo, ExpressJS, Airflow, Spark
+  - Django, Flask, Odoo, ExpressJS, Airflow, Spark, Kafka
   - Postgres, MySQL, SQLServer, MongoDB, Redis
   - Kubernetes, Helm, Docker, Ansible, Terraform
   - GCP, Azure, AWS
