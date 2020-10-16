@@ -8,11 +8,11 @@ I'm an engineer who is passionate about stuff like container orchestration, netw
 ### Languages, Tools, Frameworks and Platforms:
   - Python, Javascript, Scala, Java, Bash, C++, PHP
   - Wireshark, Nmap
-  - Django, Flask, Odoo, ExpressJS, BackboneJS, ReactJS, Airflow, Spark, Kafka
+  - Django, Flask, Odoo, ExpressJS, BackboneJS, ReactJS, Kafka
   - Postgres, MySQL, SQLServer, MongoDB, Redis
   - Kubernetes, Helm, Docker, Ansible, Terraform, Jenkins
   - GCP, Azure, AWS
   - Ubuntu, CentOS, Kali, Windows Server and Desktop
-  - Scikit, Tensorflow, MLflow
+  - Scikit, Tensorflow, MLflow, Airflow, Spark
 
 ![Nmap](../master/images/nmap.png)
