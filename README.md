@@ -9,10 +9,10 @@ I'm an engineer who is passionate about stuff like network administration, conta
   - Python, Javascript, Scala, Java, Bash, C++, PHP
   - Wireshark, Nmap
   - Django, Flask, Odoo, ExpressJS, BackboneJS, ReactJS, Kafka
-  - Postgres, MySQL, SQLServer, MongoDB, Redis
+  - Postgres, MySQL, SQLServer, MongoDB, Redis, Hadoop/Hive
   - Kubernetes, Helm, Docker, Ansible, Terraform, Jenkins
   - GCP, Azure, AWS
   - Ubuntu, CentOS, Kali, Windows Server and Desktop
-  - Scikit, Tensorflow, MLflow, Airflow, Spark, Hadoop
+  - Scikit, Tensorflow, MLflow, Airflow, Spark
 
 ![Nmap](../master/images/nmap.png)
